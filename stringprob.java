@@ -1,4 +1,4 @@
-import java.util.*;
+
 public class stringprob {
     public static float short_path(String path)  {
         int x = 0,y=0;
